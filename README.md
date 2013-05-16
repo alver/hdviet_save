@@ -1,7 +1,7 @@
 HDViet save
 ===========
 
-This is simple python script for downloading stream from HDViet (include HD quality). 
+This is simple python script for downloading stream from HDViet (http://movies.hdviet.com/), include HD quality. 
 Maded in 15 minutes.
 
 How it's work
